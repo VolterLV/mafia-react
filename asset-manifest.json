@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a9a50b2.css",
-    "main.js": "/static/js/main.7786984d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/image_png": "/static/media/image_562609151347263189912.bfc7f6cc1d39a1d09490.png",
-    "static/media/video (2).mp4": "/static/media/video (2).225874dfef1abe057b6b.mp4",
-    "static/media/1550944291_dobryy-volk-art.jpg": "/static/media/1550944291_dobryy-volk-art.26b18c76c3365631aeaf.jpg",
-    "static/media/sher.jpg": "/static/media/sher.ba0d10c2fa9771bf9695.jpg",
-    "static/media/cute-new-born-lamb-bob-van-den-berg-photography.jpg": "/static/media/cute-new-born-lamb-bob-van-den-berg-photography.978cbb46221a644a23c7.jpg",
-    "index.html": "/index.html",
-    "main.6a9a50b2.css.map": "/static/css/main.6a9a50b2.css.map",
-    "main.7786984d.js.map": "/static/js/main.7786984d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/mafia-react/static/css/main.6a9a50b2.css",
+    "main.js": "/mafia-react/static/js/main.1ec499b7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mafia-react/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image_png": "/mafia-react/static/media/image_562609151347263189912.bfc7f6cc1d39a1d09490.png",
+    "static/media/video (2).mp4": "/mafia-react/static/media/video (2).225874dfef1abe057b6b.mp4",
+    "static/media/1550944291_dobryy-volk-art.jpg": "/mafia-react/static/media/1550944291_dobryy-volk-art.26b18c76c3365631aeaf.jpg",
+    "static/media/sher.jpg": "/mafia-react/static/media/sher.ba0d10c2fa9771bf9695.jpg",
+    "static/media/cute-new-born-lamb-bob-van-den-berg-photography.jpg": "/mafia-react/static/media/cute-new-born-lamb-bob-van-den-berg-photography.978cbb46221a644a23c7.jpg",
+    "index.html": "/mafia-react/index.html",
+    "main.6a9a50b2.css.map": "/mafia-react/static/css/main.6a9a50b2.css.map",
+    "main.1ec499b7.js.map": "/mafia-react/static/js/main.1ec499b7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mafia-react/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a9a50b2.css",
-    "static/js/main.7786984d.js"
+    "static/js/main.1ec499b7.js"
   ]
 }
